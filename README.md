@@ -6,7 +6,6 @@ This project is demo application using MyBatis + PostgreSQL on GraalVM.
 
 * Installed the Docker
 * Installed the JDK 8+
-* Can access the internet
 
 ## Versions
 
