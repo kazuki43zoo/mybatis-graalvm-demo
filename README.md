@@ -8,6 +8,11 @@ This project is demo application using MyBatis + PostgreSQL on GraalVM.
 * Installed the JDK 8+
 * Can access the internet
 
+## Versions
+
+* MyBatis 3.5.1 (Some class override to support GraalVM at temporary)
+* PostgreSQL 11.3
+
 ## How to build and star container
 
 ```
