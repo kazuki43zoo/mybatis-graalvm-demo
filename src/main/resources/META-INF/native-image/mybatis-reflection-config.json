@@ -1,0 +1,102 @@
+[
+  {
+    "name": "org.apache.ibatis.io.JBoss6VFS",
+    "allPublicConstructors": true
+  },
+  {
+    "name": "org.apache.ibatis.io.DefaultVFS",
+    "allPublicConstructors": true
+  },
+  {
+    "name": "com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderFactoryImpl",
+    "allPublicConstructors": true
+  },
+  {
+    "name": "java.util.ArrayList",
+    "allPublicConstructors": true
+  },
+
+
+  {
+    "name": "org.apache.ibatis.javassist.util.proxy.ProxyFactory",
+    "allPublicConstructors": true
+  },
+  {
+    "name": "org.apache.ibatis.type.InstantTypeHandler",
+    "allPublicConstructors": true
+  },
+  {
+    "name": "org.apache.ibatis.type.LocalDateTimeTypeHandler",
+    "allPublicConstructors": true
+  },
+  {
+    "name": "org.apache.ibatis.type.LocalDateTypeHandler",
+    "allPublicConstructors": true
+  },
+  {
+    "name": "org.apache.ibatis.type.LocalTimeTypeHandler",
+    "allPublicConstructors": true
+  },
+  {
+    "name": "org.apache.ibatis.type.OffsetDateTimeTypeHandler",
+    "allPublicConstructors": true
+  },
+  {
+    "name": "org.apache.ibatis.type.OffsetTimeTypeHandler",
+    "allPublicConstructors": true
+  },
+  {
+    "name": "org.apache.ibatis.type.ZonedDateTimeTypeHandler",
+    "allPublicConstructors": true
+  },
+  {
+    "name": "org.apache.ibatis.type.MonthTypeHandler",
+    "allPublicConstructors": true
+  },
+  {
+    "name": "org.apache.ibatis.type.YearTypeHandler",
+    "allPublicConstructors": true
+  },
+  {
+    "name": "org.apache.ibatis.type.YearMonthTypeHandler",
+    "allPublicConstructors": true
+  },
+  {
+    "name": "org.apache.ibatis.type.JapaneseDateTypeHandler",
+    "allPublicConstructors": true
+  },
+  {
+    "name": "org.apache.ibatis.scripting.xmltags.XMLLanguageDriver",
+    "allPublicConstructors": true
+  },
+  {
+    "name": "org.apache.ibatis.scripting.defaults.RawLanguageDriver",
+    "allPublicConstructors": true
+  },
+  {
+    "name": "org.apache.ibatis.logging.slf4j.Slf4jImpl",
+    "allPublicConstructors": true
+  },
+  {
+    "name": "org.apache.ibatis.logging.stdout.StdOutImpl",
+    "allPublicConstructors": true
+  },
+  {
+    "name": "org.apache.ibatis.transaction.jdbc.JdbcTransactionFactory",
+    "allPublicConstructors": true
+  },
+  {
+    "name": "org.apache.ibatis.datasource.unpooled.UnpooledDataSourceFactory",
+    "allPublicConstructors": true
+  },
+  {
+    "name": "org.apache.ibatis.datasource.unpooled.UnpooledDataSource",
+    "allPublicConstructors": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "org.apache.ibatis.annotations.Insert",
+    "allPublicMethods": true
+  }
+
+]

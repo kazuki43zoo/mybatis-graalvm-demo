@@ -1,0 +1,11 @@
+[
+  {
+    "name": "com.example.domain.City",
+    "allPublicConstructors": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "com.example.mapper.CityMapper",
+    "allPublicMethods": true
+  }
+]

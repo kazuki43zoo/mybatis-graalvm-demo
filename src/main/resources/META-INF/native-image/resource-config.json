@@ -1,0 +1,13 @@
+{
+  "resources": [
+    {
+      "pattern": ".*\\.sql"
+    },
+    {
+      "pattern": "mybatis-config\\.xml"
+    },
+    {
+      "pattern": "com/example/mapper.*\\.xml"
+    }
+  ]
+}
